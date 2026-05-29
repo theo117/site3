@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="124" viewBox="0 0 53 124">
+  <rect width="53" height="124" rx="6" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="53" height="5" rx="6" fill="#4ecdc4"/>
+  <!-- W. mark -->
+  <text x="26.5" y="40" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="28" font-weight="700" fill="#ffffff">w.</text>
+  <!-- Divider line -->
+  <line x1="12" y1="52" x2="41" y2="52" stroke="rgba(255,255,255,0.15)" stroke-width="0.75"/>
+  <!-- NOMINEE vertical text -->
+  <text x="26.5" y="67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="6.5" font-weight="700" fill="rgba(255,255,255,0.85)" letter-spacing="1.5">NOM</text>
+  <text x="26.5" y="77" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="6.5" font-weight="700" fill="rgba(255,255,255,0.85)" letter-spacing="1.5">INEE</text>
+  <!-- Bottom accent -->
+  <circle cx="26.5" cy="96" r="3" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="0.75"/>
+  <circle cx="26.5" cy="96" r="1.2" fill="#4ecdc4"/>
+</svg>
